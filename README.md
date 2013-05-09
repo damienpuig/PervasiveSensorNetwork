@@ -1,5 +1,7 @@
 PervasiveSensorNetwork
 ======================
+This project has been developed for the "Pervasive Application" module, P00602, Oxford Brookes University.
+
 
 Description
 -----------
