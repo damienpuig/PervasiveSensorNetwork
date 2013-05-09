@@ -18,7 +18,7 @@ Redis pushes new entries to Tier-Applications using Pub/Sub.
 Tools
 -----
 
-Redis.Io : http://redis.io/
-X-CTU Xbee firmware configuration: http://www.digi.com/support/productdetail?pid=3352&osvid=57&type=utilities
-Arduino: http://www.arduino.cc/
+: Redis.Io : http://redis.io/
+: X-CTU Xbee firmware configuration: http://www.digi.com/support/productdetail?pid=3352&osvid=57&type=utilities
+: Arduino: http://www.arduino.cc/
 
