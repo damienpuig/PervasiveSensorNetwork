@@ -10,8 +10,7 @@ There are 4 major layers in the project:
 
 - The Physical layer, represented by the Arduino network, and retreiving physical values ( here luminosity and Temperature over a week).
 - The Process layer, represented by a C# program that listens to the Coordinator serial port.
-- The Data Layer, using Redis Database. Redis is used to Left push arduino records on a given key (e.g. arduino node 1)
-Redis pushes new entries to Tier-Applications using Pub/Sub.
+- The Data Layer, using Redis Database. Redis is used to Left push arduino records on a given key (e.g. arduino node 1). Redis pushes new entries to Tier-Applications using Pub/Sub.
 - The Tier Layer will subscribe to Redis updates on the following channel: ERROR, TEMPERATURE, LUMINOSITY.
 
 
