@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="pervasivecourseworkListener.Graph">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAQQCgAAAAAAACAgEgCAAUAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Graph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pervasivecourseworkListener.History">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAACEAACAgABAQABCAAAACAGA4AAABAHAoAAAAgAA=</HashCode>
+      <FileName>History.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pervasivecourseworkListener.NodeGroup">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>NodeGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pervasivecourseworkListener.Program">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pervasivecourseworkListener.RedisListener">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="pervasivecourseworkListener.RedisListener.requestType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>RedisListener.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEABgQgBQCAIAUAABAAAAAAAAQAAIAgAAAAAAAAAgQQ=</HashCode>
+      <FileName>RedisListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pervasivecourseworkListener.Value">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACBAAAAAAAAAAAAACAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Value.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
